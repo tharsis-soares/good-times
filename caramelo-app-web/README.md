@@ -1,3 +1,17 @@
+# Tutorial de Sistema de Login com ReactJS, GoogleAuth e JWT..
+
+## Introduction
+Usando a stack MERN para aprender as funcionalidades de cada parte em si.
+
+
+Setup:
+- run ```npm i && npm start``` para client e server para start o app
+
+
+
+
+
+
 # Memories
 
 ![Memories](https://i.ibb.co/Z8Y0CJv/Screenshot-2020-10-30-at-11-10-04.png)
